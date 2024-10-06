@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="59e3895d-7131-4f7f-9c40-367fe8a1be1c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browsers.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/myProject/configManager/ConfigFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/myProject/configManager/FrameworkConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/myProject/dataFactory/DataGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/myProject/emailManager/EmailAttachmentsSender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/myProject/emailManager/EmailConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/myProject/emailManager/EmailSendUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/myProject/enums/ActionType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/myProject/enums/LocatorType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/myProject/enums/LogLevel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/myProject/enums/TestCategory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/myProject/enums/WaitStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/myProject/frameworkComstants/BrowserConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/myProject/frameworkComstants/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/myProject/frameworkComstants/PageURLs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/myProject/frameworkComstants/ReportConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/myProject/listeners/Retry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/myProject/listeners/RetryListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/myProject/listeners/TestListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/myProject/reportManager/ExtentLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/myProject/reportManager/ExtentReportDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/myProject/reportManager/ExtentReportNG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/myProject/userActions/Assertions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/myProject/userActions/CustomActions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/myProject/userActions/CustomWaits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/myProject/utils/PDFReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/myProject/utils/ScreenRecorderHelpers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/ENV/preprod.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/ENV/production.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/ENV/testprod.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/myProject/pageObject/LandingPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/myProject/pageObject/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/myProject/testSuite/LandingPageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/myProject/testSuite/LoginPageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/allure.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/drivers/chromedriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/extent-config.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2n4t0NacKbG7lp98Z5N8rPA4Jeb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG./Users/abhinavkumardubey/EMR-Automation/myGithubSample/selenide-ui-framework/testng.xml.executor": "Run",
+    "TestNG.LandingPageTest.verifyLandingPage.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/abhinavkumardubey/EMR-Automation/myGithubSample/selenide-ui-framework",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/main/java/org/myProject/utils" />
+      <recent name="$PROJECT_DIR$/src/test/resources" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/test/java/org/myProject/testSuite" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.myProject.baseClass" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG./Users/abhinavkumardubey/EMR-Automation/myGithubSample/selenide-ui-framework/testng.xml">
+    <configuration name="LandingPageTest.verifyLandingPage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenide-ui-framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.myProject.testSuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.myProject.testSuite" />
+      <option name="MAIN_CLASS_NAME" value="org.myProject.testSuite.LandingPageTest" />
+      <option name="METHOD_NAME" value="verifyLandingPage" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/abhinavkumardubey/EMR-Automation/myGithubSample/selenide-ui-framework/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenide-ui-framework" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG./Users/abhinavkumardubey/EMR-Automation/myGithubSample/selenide-ui-framework/testng.xml" />
+        <item itemvalue="TestNG.LandingPageTest.verifyLandingPage" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="59e3895d-7131-4f7f-9c40-367fe8a1be1c" name="Changes" comment="" />
+      <created>1728243955224</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728243955224</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
